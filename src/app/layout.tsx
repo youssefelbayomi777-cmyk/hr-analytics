@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   title: "لوحة تحليلات الموارد البشرية",
   description: "لوحة تحكم تفاعلية لتحليل بيانات الموارد البشرية",
   icons: {
-    icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+    icon: "/favicon.ico",
   },
 };
 
