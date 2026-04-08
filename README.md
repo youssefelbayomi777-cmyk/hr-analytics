@@ -8,7 +8,7 @@
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-latest-black)
 ![Python](https://img.shields.io/badge/Python-3.12-yellow?logo=python)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-orange?logo=scikit-learn)
-![Vercel](https://img.shields.io/badge/Vercel-deployed-success?logo=vercel)
+[![Vercel](https://img.shields.io/badge/Vercel-deployed-success?logo=vercel)](https://hr-analytics-roan.vercel.app)
 ![GitHub](https://img.shields.io/badge/GitHub-hosted-success?logo=github)
 
 **لوحة تحكم تفاعلية لتحليل بيانات الموارد البشرية مع تحليل تنبؤي باستخدام التعلم الآلي**
