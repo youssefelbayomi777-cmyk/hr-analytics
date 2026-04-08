@@ -41,13 +41,30 @@ yarn-error.log*
 next-env.d.ts
 
 # Internal/system files
-/skills/
-/zscripts/
+skills/
+.zscripts/
 .z-ai-config
 .claude
-.zscripts/
 *.pid
 local-*
+
+# Upload directories (sensitive data)
+upload/
+downloads/
+
+# Internal scripts and configs
+Caddyfile
+
+# Workspace archives
+workspace-*.tar
+workspace-*.tar.gz
+workspace-*.zip
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
 
 # Upload (original data - private)
 /upload/
