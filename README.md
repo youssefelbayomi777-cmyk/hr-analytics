@@ -10,7 +10,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-orange?logo=scikit-learn)
 ![Vercel](https://img.shields.io/badge/Vercel-deployed-success?logo=vercel)
 ![GitHub](https://img.shields.io/badge/GitHub-hosted-success?logo=github)
-![Portfolio](https://img.shields.io/badge/Portfolio-ready-success?logo=portfolio)
 
 **لوحة تحكم تفاعلية لتحليل بيانات الموارد البشرية مع تحليل تنبؤي باستخدام التعلم الآلي**
 
