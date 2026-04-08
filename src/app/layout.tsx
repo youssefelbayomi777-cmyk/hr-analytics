@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "لوحة تحليلات الموارد البشرية",
-  description: "لوحة تحكم تفاعلية لتحليل بيانات الموارد البشرية",
+  title: "لوحة تحليلات الموارد البشرية | HR Analytics Dashboard",
+  description: "لوحة تحكم تفاعلية لتحليل بيانات الموارد البشرية مع تحليل تنبؤي باستخدام التعلم الآلي",
   icons: {
     icon: "/favicon.ico",
   },
